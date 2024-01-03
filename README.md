@@ -21,7 +21,7 @@ Related Documents
 
 To download the latest stable release, get the lattest version tag from the [latest releases page](https://github.com/jellyfin/jellyfin-media-player/releases/latest) and append the following to your pull command during the build phase for JMP "--branch $VERSIONTAG --single-branch"
 
-Example:
+Example
 ```bash
 git clone https://github.com/jellyfin/jellyfin-media-player.git --branch v1.9.1 --single-branch
 ```
