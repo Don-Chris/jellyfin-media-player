@@ -10,7 +10,7 @@ Downloads:
  - [Windows, Mac, and Linux Releases](https://github.com/jellyfin/jellyfin-media-player/releases)
  - [Flathub (Linux)](https://flathub.org/apps/details/com.github.iwalton3.jellyfin-media-player)
 
-Related Documents:
+Related Documents
  - Web client: https://repo.jellyfin.org/releases/server/portable/versions/stable/web/
      - Note: If you do not provide the web client, the application will use a fallback UI where the user must select a server which has a web client.
  - Web client integration documentation: [for-web-developers.md](https://github.com/jellyfin/jellyfin-media-player/blob/master/for-web-developers.md)
