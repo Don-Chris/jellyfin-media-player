@@ -10,14 +10,14 @@ Downloads:
  - [Windows, Mac, and Linux Releases](https://github.com/jellyfin/jellyfin-media-player/releases)
  - [Flathub (Linux)](https://flathub.org/apps/details/com.github.iwalton3.jellyfin-media-player)
 
-Related Documents:
+Related Documents
  - Web client: https://repo.jellyfin.org/releases/server/portable/versions/stable/web/
      - Note: If you do not provide the web client, the application will use a fallback UI where the user must select a server which has a web client.
  - Web client integration documentation: [for-web-developers.md](https://github.com/jellyfin/jellyfin-media-player/blob/master/for-web-developers.md)
  - API Docs in [client-api.md](https://github.com/jellyfin/jellyfin-media-player/blob/master/client-api.md)
  - Tip: For help building, look at the GitHub Actions file!
 
-## Building at a glance (Linux)
+## Building at a glance
 
 To download the latest stable release, get the lattest version tag from the [latest releases page](https://github.com/jellyfin/jellyfin-media-player/releases/latest) and append the following to your pull command during the build phase for JMP "--branch $VERSIONTAG --single-branch"
 
